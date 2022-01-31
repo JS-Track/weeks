@@ -1,0 +1,12 @@
+1) "index" or "default"
+index.js index.html index.php index.py 
+
+2) html + css
+
+Rank of Specificity
+
+1)  !important
+2)  closeness - the closest to the element takes precedence
+3)  id 
+4)  class, props, relation
+5)  tag
