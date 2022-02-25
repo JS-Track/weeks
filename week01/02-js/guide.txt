@@ -1,0 +1,14 @@
+1995 language ( Bredan Eich )
+
+python, java, C#, ruby ( statically typed )
+
+js ( dynamically typed  - quicks - unique )
+
+Variable Types
+
+1) temporary variables
+2) permanent variables
+
+Transpiling ( web pack ) 
+
+Defensive Programmer - testing
