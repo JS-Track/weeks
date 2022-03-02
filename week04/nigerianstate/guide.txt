@@ -1,0 +1,10 @@
+Steps To Complete This Project
+
+1) Create Your HTML Page
+2) Connect your app.js to the HTML
+3) get access to the SELECT element
+4) get access to the data in the json
+5) pass the data into the SELECT
+6) listen for the element that is clicked
+7) get the value
+8) use the value to get the data of the lga of that state
